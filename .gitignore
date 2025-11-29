@@ -1,0 +1,12 @@
+.idea
+
+*.eml
+*.nsf
+*.dbx
+*.ost
+
+template.md
+
+.env
+/generated/prisma
+/node_modules
